@@ -1,0 +1,2 @@
+LOGWATCH CONFIGURATION
+Clone inside /etc/logwatch/ after a default yum install of logwatch to setup
